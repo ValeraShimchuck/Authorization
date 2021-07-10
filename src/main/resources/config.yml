@@ -1,0 +1,13 @@
+messages:
+  wrongpass: 'Wrong password!'
+  logmess: '/login password'
+  regmess: '/reg password confirmPassword'
+  longkick: 'You registration/logging so long!'
+  attkick: 'Much attempts'
+  suclog: 'You successfully logged!'
+  sucreg: 'You successfully registered'
+  alrlog: "You are logged"
+  alrreg: 'You has been registered'
+integers:
+  logtime: 15
+  attempts: 3

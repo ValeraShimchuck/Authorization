@@ -1,0 +1,11 @@
+name: Authorization
+main: com.auth.Main
+version: 1.0
+api-version: 1.13
+commands:
+  login:
+    description: Login to account
+    usage: /login <password>
+  reg:
+    description: Register account
+    usage: /reg <pass> <confirmpass>
